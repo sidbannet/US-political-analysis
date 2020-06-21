@@ -10,6 +10,7 @@ repo_dir = subprocess.check_output(
 sys.path.insert(0, repo_dir + os.sep + 'stat-tools')
 ##
 import pandas as pd
+import numpy as np
 
 ##
 df_covid_dead = pd.DataFrame()
@@ -28,3 +29,21 @@ df_covid_dead = pd.read_csv(
 df_election_pres = pd.read_csv(
     us_election_folder + 'countypres_2000-2016.csv',
 )
+
+## US election analysis begins
+(
+    np.array(
+        df_election_pres[
+            df_election_pres.FIPS == 1001
+        ][
+            df_election_pres.party == 'republican'
+        ].candidatevotes
+    ) / np.array(
+        df_election_pres[
+            df_election_pres.FIPS == 1001
+        ][
+            df_election_pres.party == 'republican'
+        ].totalvotes
+    )
+).mean() * 100.00
+

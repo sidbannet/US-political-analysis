@@ -1,6 +1,7 @@
 ## Load packages
 import os
 import pandas as pd
+import numpy as np
 
 ## Initialize
 df_covid_dead = pd.DataFrame()
