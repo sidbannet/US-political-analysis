@@ -46,4 +46,24 @@ df_election_pres = pd.read_csv(
         ].totalvotes
     )
 ).mean() * 100.00
+## US COVID data analysis
+df_covid = (
+    df_covid_dead[df_covid_dead.FIPS > 1000]
+)[df_covid_dead.FIPS < 80000]  # This FIPS lies in US voting counties
+days_since_first_death = \
+    (
+        (
+            np.where(
+                df_covid_dead[
+                    df_covid_dead.FIPS == 1067
+                ].values[0][12:] > 0
+            )
+        )[0][-1] - (
+            np.where(
+                df_covid_dead[
+                    df_covid_dead.FIPS == 1067
+                ].values[0][12:] > 0
+            )
+        )[0][0]
+    )
 
