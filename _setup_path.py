@@ -50,20 +50,47 @@ df_election_pres = pd.read_csv(
 df_covid = (
     df_covid_dead[df_covid_dead.FIPS > 1000]
 )[df_covid_dead.FIPS < 80000]  # This FIPS lies in US voting counties
-days_since_first_death = \
-    (
-        (
-            np.where(
-                df_covid_dead[
-                    df_covid_dead.FIPS == 1067
-                ].values[0][12:] > 0
-            )
-        )[0][-1] - (
-            np.where(
-                df_covid_dead[
-                    df_covid_dead.FIPS == 1067
-                ].values[0][12:] > 0
-            )
-        )[0][0]
+##
+days = []
+for index, row in df_covid.iterrows():
+    days.append(
+        np.where(
+            row.values[12:] > 0
+        )[0].size
+    )
+
+##
+import matplotlib.pyplot as plt
+fig = plt.figure()
+ax = fig.subplots()
+for idx, row in df_covid.iterrows():
+    try:
+        if days[idx] == 0:
+            continue
+        else:
+            x = np.array(np.linspace(start=0, stop=days[idx] - 1, num=days[idx]))
+    except IndexError:
+        continue
+    try:
+        ax.plot(x, row.values[-days[idx]:] /row.Population, '-k')
+    except ValueError:
+        pass
+    except IndexError:
+        pass
+ax.set_yscale('log')
+
+##
+covid_mat = []
+for idx, row in df_covid.iterrows():
+    if row.values[-1] == 0:
+        covid_mat.append(0)
+        continue
+    elif days[idx] == 0:
+        covid_mat.append(0)
+        continue
+    else:
+        pass
+    covid_mat.append(
+        (row.values[-1] * 1e6) / (row.Population * days[idx])
     )
 
