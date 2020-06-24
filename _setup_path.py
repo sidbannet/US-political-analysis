@@ -106,7 +106,7 @@ for index, row in df_covid.iterrows():
 for index, row in df_conf.iterrows():
     days_conf.append(
         np.where(
-            row.values[12:] > 5
+            row.values[11:] > 5
         )[0].size
     )
 
@@ -115,8 +115,8 @@ import matplotlib.pyplot as plt
 ##
 affected = np.zeros_like(df_covid.values[0][12:])
 population = np.zeros_like(df_covid.values[0][12:])
-confirmed = np.zeros_like(df_conf.values[0][12:])
-confirmed_population = np.zeros_like(df_conf.values[0][12:])
+confirmed = np.zeros_like(df_conf.values[0][11:])
+confirmed_population = np.zeros_like(df_conf.values[0][11:])
 ##
 fig = plt.figure()
 ax = fig.subplots()
@@ -296,7 +296,9 @@ plt.ylim(0.001, 100)
 plt.colorbar()
 ##
 plt.scatter(
-    df_analysis.elect, df_analysis.conf, s=df_analysis.pop() / 10000, c=days)
+    df_analysis.elect, df_analysis.conf,
+    s=df_covid.Population.values / 10000,
+    c=days)
 plt.yscale('log')
 plt.xlim(-100, 100)
 plt.grid(True)
