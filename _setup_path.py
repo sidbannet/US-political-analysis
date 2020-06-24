@@ -46,6 +46,44 @@ df_election_pres = pd.read_csv(
         ].totalvotes
 )
 ).mean() * 100.00
+##
+
+var_repub = ((
+          df_election_pres[
+              df_election_pres.FIPS == 1001
+              ][
+              df_election_pres.year == 2016
+              ][
+              df_election_pres.party == 'republican'
+              ].candidatevotes
+      ) / (
+          df_election_pres[
+              df_election_pres.FIPS == 1001
+              ][
+              df_election_pres.year == 2016
+              ][
+              df_election_pres.party == 'republican'
+              ].totalvotes
+      )).values[0] * 100
+
+var_dem = ((
+          df_election_pres[
+              df_election_pres.FIPS == 1001
+              ][
+              df_election_pres.year == 2016
+              ][
+              df_election_pres.party == 'democrat'
+              ].candidatevotes
+      ) / (
+          df_election_pres[
+              df_election_pres.FIPS == 1001
+              ][
+              df_election_pres.year == 2016
+              ][
+              df_election_pres.party == 'democrat'
+              ].totalvotes
+      )).values[0] * 100
+
 ## US COVID data analysis
 df_covid = (
     df_covid_dead[df_covid_dead.FIPS > 1000]
@@ -91,14 +129,17 @@ ax.plot(affected[:max(days) - 1] / population[:max(days) - 1] * 1e6, '-g',
 ##
 covid_mat = []
 covid_rel = []
+electionbias = []
 for idx, row in df_covid.iterrows():
     if row.values[-1] == 0:
         covid_mat.append(0)
         covid_rel.append(0)
+        electionbias.append(101)
         continue
     elif days[idx] == 0:
         covid_mat.append(0)
         covid_rel.append(0)
+        electionbias.append(101)
         continue
     else:
         pass
@@ -108,6 +149,52 @@ for idx, row in df_covid.iterrows():
     covid_rel.append(
         ((row.values[-1] * 1e6) / row.Population) /
         ((affected[days[idx] - 1] * 1e6) / population[days[idx] - 1])
-
-
     )
+    try:
+        var_repub = (
+            (
+                df_election_pres[
+                    df_election_pres.FIPS == row.FIPS
+                ][
+                    df_election_pres.year == 2016
+                ][
+                    df_election_pres.party == 'republican'
+                ].candidatevotes
+            ) / (
+                df_election_pres[
+                    df_election_pres.FIPS == row.FIPS
+                ][
+                    df_election_pres.year == 2016
+                ][
+                    df_election_pres.party == 'republican'
+                ].totalvotes
+            )
+        ).values[0] * 100
+        var_dem = (
+            (
+                df_election_pres[
+                    df_election_pres.FIPS == row.FIPS
+                ][
+                    df_election_pres.year == 2016
+                ][
+                    df_election_pres.party == 'democrat'
+                ].candidatevotes
+            ) / (
+                    df_election_pres[
+                        df_election_pres.FIPS == row.FIPS
+                    ][
+                        df_election_pres.year == 2016
+                    ][
+                        df_election_pres.party == 'democrat'
+                    ].totalvotes
+            )
+        ).values[0] * 100
+    except IndexError:
+        var_repub = 101
+        var_dem = 0
+    electionbias.append(
+        var_repub - var_dem
+    )
+
+##
+
