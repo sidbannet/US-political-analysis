@@ -17,9 +17,9 @@ df_covid_dead = pd.DataFrame()
 df_election_pres = pd.DataFrame()
 ##
 us_data_folder = r'COVID-19' \
-    + os.sep + 'csse_covid_19_data' \
-    + os.sep + 'csse_covid_19_time_series' \
-    + os.sep
+                 + os.sep + 'csse_covid_19_data' \
+                 + os.sep + 'csse_covid_19_time_series' \
+                 + os.sep
 us_election_folder = r'US-election-data' + os.sep
 ##
 df_covid_dead = pd.read_csv(
@@ -32,19 +32,19 @@ df_election_pres = pd.read_csv(
 
 ## US election analysis begins
 (
-    np.array(
-        df_election_pres[
-            df_election_pres.FIPS == 1001
+        np.array(
+            df_election_pres[
+                df_election_pres.FIPS == 1001
+                ][
+                df_election_pres.party == 'republican'
+                ].candidatevotes
+        ) / np.array(
+    df_election_pres[
+        df_election_pres.FIPS == 1001
         ][
-            df_election_pres.party == 'republican'
-        ].candidatevotes
-    ) / np.array(
-        df_election_pres[
-            df_election_pres.FIPS == 1001
-        ][
-            df_election_pres.party == 'republican'
+        df_election_pres.party == 'republican'
         ].totalvotes
-    )
+)
 ).mean() * 100.00
 ## US COVID data analysis
 df_covid = (
@@ -61,6 +61,10 @@ for index, row in df_covid.iterrows():
 
 ##
 import matplotlib.pyplot as plt
+##
+affected = np.zeros_like(df_covid.values[0][12:])
+population = np.zeros_like(df_covid.values[0][12:])
+##
 fig = plt.figure()
 ax = fig.subplots()
 for idx, row in df_covid.iterrows():
@@ -68,29 +72,42 @@ for idx, row in df_covid.iterrows():
         if days[idx] == 0:
             continue
         else:
-            x = np.array(np.linspace(start=0, stop=days[idx] - 1, num=days[idx]))
+            x = np.array(
+                np.linspace(start=0, stop=days[idx] - 1, num=days[idx]))
     except IndexError:
         continue
     try:
-        ax.plot(x, row.values[-days[idx]:] /row.Population, '-k')
+        ax.plot(x, row.values[-days[idx]:] / row.Population * 1e6, '-k')
+        affected[:days[idx]] += row.values[-days[idx]:]
+        population[:days[idx]] += row.Population
     except ValueError:
         pass
     except IndexError:
         pass
 ax.set_yscale('log')
+ax.plot(affected[:max(days) - 1] / population[:max(days) - 1] * 1e6, '-g',
+        label='Mean')
 
 ##
 covid_mat = []
+covid_rel = []
 for idx, row in df_covid.iterrows():
     if row.values[-1] == 0:
         covid_mat.append(0)
+        covid_rel.append(0)
         continue
     elif days[idx] == 0:
         covid_mat.append(0)
+        covid_rel.append(0)
         continue
     else:
         pass
     covid_mat.append(
         (row.values[-1] * 1e6) / (row.Population * days[idx])
     )
+    covid_rel.append(
+        ((row.values[-1] * 1e6) / row.Population) /
+        ((affected[days[idx] - 1] * 1e6) / population[days[idx] - 1])
 
+
+    )
