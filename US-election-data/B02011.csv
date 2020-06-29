@@ -1,0 +1,813 @@
+TBLID,GEOID,GEONAME,ORDER,TITLE,ESTIMATE,MG_ERROR
+B02011,,,,ASIAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES,,
+B02011,,,,Universe:  Asian alone or in combination with one or more other races,,
+B02011,05000US01003,"Baldwin County, Alabama",1,Total:,"3,143",+/-201
+B02011,05000US01015,"Calhoun County, Alabama",1,Total:,"1,594",+/-270
+B02011,05000US01043,"Cullman County, Alabama",1,Total:,903,+/-397
+B02011,05000US01049,"DeKalb County, Alabama",1,Total:,588,+/-514
+B02011,05000US01051,"Elmore County, Alabama",1,Total:,707,+/-500
+B02011,05000US01055,"Etowah County, Alabama",1,Total:,944,+/-201
+B02011,05000US01069,"Houston County, Alabama",1,Total:,"1,406",+/-50
+B02011,05000US01073,"Jefferson County, Alabama",1,Total:,"13,687",+/-299
+B02011,05000US01077,"Lauderdale County, Alabama",1,Total:,869,+/-93
+B02011,05000US01081,"Lee County, Alabama",1,Total:,"7,622",+/-184
+B02011,05000US01083,"Limestone County, Alabama",1,Total:,"1,840",+/-201
+B02011,05000US01089,"Madison County, Alabama",1,Total:,"13,292",+/-972
+B02011,05000US01095,"Marshall County, Alabama",1,Total:,768,+/-201
+B02011,05000US01097,"Mobile County, Alabama",1,Total:,"10,837","+/-1,197"
+B02011,05000US01101,"Montgomery County, Alabama",1,Total:,"8,041",+/-318
+B02011,05000US01103,"Morgan County, Alabama",1,Total:,"1,047",+/-201
+B02011,05000US01115,"St. Clair County, Alabama",1,Total:,959,+/-201
+B02011,05000US01117,"Shelby County, Alabama",1,Total:,"5,613",+/-201
+B02011,05000US01125,"Tuscaloosa County, Alabama",1,Total:,"4,125",+/-152
+B02011,05000US02020,"Anchorage Municipality, Alaska",1,Total:,"37,640","+/-1,084"
+B02011,05000US02090,"Fairbanks North Star Borough, Alaska",1,Total:,"5,448",+/-662
+B02011,05000US02170,"Matanuska-Susitna Borough, Alaska",1,Total:,"3,481",+/-376
+B02011,05000US04001,"Apache County, Arizona",1,Total:,450,+/-304
+B02011,05000US04003,"Cochise County, Arizona",1,Total:,"3,846",+/-198
+B02011,05000US04005,"Coconino County, Arizona",1,Total:,"4,663",+/-712
+B02011,05000US04013,"Maricopa County, Arizona",1,Total:,"244,080","+/-3,087"
+B02011,05000US04015,"Mohave County, Arizona",1,Total:,"3,405",+/-109
+B02011,05000US04017,"Navajo County, Arizona",1,Total:,"1,170",+/-310
+B02011,05000US04019,"Pima County, Arizona",1,Total:,"44,720","+/-1,945"
+B02011,05000US04021,"Pinal County, Arizona",1,Total:,"11,241",+/-898
+B02011,05000US04025,"Yavapai County, Arizona",1,Total:,"3,626",+/-193
+B02011,05000US04027,"Yuma County, Arizona",1,Total:,"3,774",+/-410
+B02011,05000US05007,"Benton County, Arkansas",1,Total:,"12,605",+/-137
+B02011,05000US05031,"Craighead County, Arkansas",1,Total:,685,+/-600
+B02011,05000US05045,"Faulkner County, Arkansas",1,Total:,"2,171",+/-87
+B02011,05000US05051,"Garland County, Arkansas",1,Total:,"1,179",+/-201
+B02011,05000US05069,"Jefferson County, Arkansas",1,Total:,659,+/-201
+B02011,05000US05085,"Lonoke County, Arkansas",1,Total:,"1,104",+/-85
+B02011,05000US05119,"Pulaski County, Arkansas",1,Total:,"11,934","+/-1,122"
+B02011,05000US05125,"Saline County, Arkansas",1,Total:,"1,924",+/-201
+B02011,05000US05131,"Sebastian County, Arkansas",1,Total:,"6,649",+/-126
+B02011,05000US05143,"Washington County, Arkansas",1,Total:,"8,345",+/-747
+B02011,05000US05145,"White County, Arkansas",1,Total:,"1,021",+/-367
+B02011,05000US06001,"Alameda County, California",1,Total:,"575,221","+/-3,032"
+B02011,05000US06007,"Butte County, California",1,Total:,"14,810",+/-545
+B02011,05000US06013,"Contra Costa County, California",1,Total:,"237,262","+/-1,972"
+B02011,05000US06017,"El Dorado County, California",1,Total:,"11,773",+/-701
+B02011,05000US06019,"Fresno County, California",1,Total:,"119,354","+/-2,244"
+B02011,05000US06023,"Humboldt County, California",1,Total:,"6,293",+/-751
+B02011,05000US06025,"Imperial County, California",1,Total:,"3,360",+/-712
+B02011,05000US06029,"Kern County, California",1,Total:,"55,658","+/-2,519"
+B02011,05000US06031,"Kings County, California",1,Total:,"8,058",+/-448
+B02011,05000US06033,"Lake County, California",1,Total:,"1,184",+/-323
+B02011,05000US06037,"Los Angeles County, California",1,Total:,"1,671,804","+/-6,234"
+B02011,05000US06039,"Madera County, California",1,Total:,"4,072",+/-248
+B02011,05000US06041,"Marin County, California",1,Total:,"23,210",+/-874
+B02011,05000US06045,"Mendocino County, California",1,Total:,"2,683",+/-251
+B02011,05000US06047,"Merced County, California",1,Total:,"24,418","+/-2,030"
+B02011,05000US06053,"Monterey County, California",1,Total:,"34,939","+/-1,440"
+B02011,05000US06055,"Napa County, California",1,Total:,"13,897",+/-363
+B02011,05000US06057,"Nevada County, California",1,Total:,"3,066",+/-683
+B02011,05000US06059,"Orange County, California",1,Total:,"743,854","+/-3,299"
+B02011,05000US06061,"Placer County, California",1,Total:,"40,037",+/-836
+B02011,05000US06065,"Riverside County, California",1,Total:,"200,493","+/-3,064"
+B02011,05000US06067,"Sacramento County, California",1,Total:,"302,991","+/-2,899"
+B02011,05000US06071,"San Bernardino County, California",1,Total:,"187,242","+/-3,161"
+B02011,05000US06073,"San Diego County, California",1,Total:,"493,938","+/-3,619"
+B02011,05000US06075,"San Francisco County, California",1,Total:,"339,207","+/-2,473"
+B02011,05000US06077,"San Joaquin County, California",1,Total:,"143,682","+/-3,281"
+B02011,05000US06079,"San Luis Obispo County, California",1,Total:,"15,650","+/-1,356"
+B02011,05000US06081,"San Mateo County, California",1,Total:,"256,121","+/-3,209"
+B02011,05000US06083,"Santa Barbara County, California",1,Total:,"34,484","+/-1,648"
+B02011,05000US06085,"Santa Clara County, California",1,Total:,"785,222","+/-2,604"
+B02011,05000US06087,"Santa Cruz County, California",1,Total:,"18,641",+/-684
+B02011,05000US06089,"Shasta County, California",1,Total:,"7,381",+/-130
+B02011,05000US06095,"Solano County, California",1,Total:,"86,477","+/-1,577"
+B02011,05000US06097,"Sonoma County, California",1,Total:,"30,671","+/-1,024"
+B02011,05000US06099,"Stanislaus County, California",1,Total:,"40,705","+/-2,066"
+B02011,05000US06101,"Sutter County, California",1,Total:,"16,439","+/-1,532"
+B02011,05000US06107,"Tulare County, California",1,Total:,"22,126","+/-1,238"
+B02011,05000US06111,"Ventura County, California",1,Total:,"79,842","+/-1,859"
+B02011,05000US06113,"Yolo County, California",1,Total:,"40,058","+/-1,292"
+B02011,05000US06115,"Yuba County, California",1,Total:,"6,229","+/-1,037"
+B02011,05000US08001,"Adams County, Colorado",1,Total:,"26,475","+/-1,062"
+B02011,05000US08005,"Arapahoe County, Colorado",1,Total:,"50,756","+/-1,527"
+B02011,05000US08013,"Boulder County, Colorado",1,Total:,"20,327",+/-275
+B02011,05000US08014,"Broomfield County, Colorado",1,Total:,"6,006",+/-210
+B02011,05000US08031,"Denver County, Colorado",1,Total:,"36,033","+/-1,210"
+B02011,05000US08035,"Douglas County, Colorado",1,Total:,"23,122",+/-632
+B02011,05000US08041,"El Paso County, Colorado",1,Total:,"34,413","+/-1,585"
+B02011,05000US08059,"Jefferson County, Colorado",1,Total:,"23,040",+/-783
+B02011,05000US08069,"Larimer County, Colorado",1,Total:,"12,195",+/-548
+B02011,05000US08077,"Mesa County, Colorado",1,Total:,"2,562",+/-383
+B02011,05000US08101,"Pueblo County, Colorado",1,Total:,"2,790",+/-510
+B02011,05000US08123,"Weld County, Colorado",1,Total:,"6,682","+/-1,100"
+B02011,05000US09001,"Fairfield County, Connecticut",1,Total:,"60,454",+/-843
+B02011,05000US09003,"Hartford County, Connecticut",1,Total:,"58,037","+/-1,740"
+B02011,05000US09005,"Litchfield County, Connecticut",1,Total:,"4,656",+/-265
+B02011,05000US09007,"Middlesex County, Connecticut",1,Total:,"6,659",+/-776
+B02011,05000US09009,"New Haven County, Connecticut",1,Total:,"41,131","+/-1,171"
+B02011,05000US09011,"New London County, Connecticut",1,Total:,"13,764",+/-253
+B02011,05000US09013,"Tolland County, Connecticut",1,Total:,"8,344",+/-249
+B02011,05000US09015,"Windham County, Connecticut",1,Total:,"2,267",+/-262
+B02011,05000US10001,"Kent County, Delaware",1,Total:,"6,016",+/-541
+B02011,05000US10003,"New Castle County, Delaware",1,Total:,"35,393",+/-522
+B02011,05000US10005,"Sussex County, Delaware",1,Total:,"3,766",+/-246
+B02011,05000US11001,"District of Columbia, District of Columbia",1,Total:,"38,036","+/-1,098"
+B02011,05000US12001,"Alachua County, Florida",1,Total:,"19,926",+/-685
+B02011,05000US12005,"Bay County, Florida",1,Total:,"6,052",+/-186
+B02011,05000US12009,"Brevard County, Florida",1,Total:,"23,487","+/-2,265"
+B02011,05000US12011,"Broward County, Florida",1,Total:,"90,871","+/-3,091"
+B02011,05000US12015,"Charlotte County, Florida",1,Total:,"3,219",+/-229
+B02011,05000US12017,"Citrus County, Florida",1,Total:,"2,948",+/-189
+B02011,05000US12019,"Clay County, Florida",1,Total:,"10,231","+/-1,291"
+B02011,05000US12021,"Collier County, Florida",1,Total:,"7,002",+/-605
+B02011,05000US12023,"Columbia County, Florida",1,Total:,654,+/-590
+B02011,05000US12031,"Duval County, Florida",1,Total:,"59,747","+/-1,511"
+B02011,05000US12033,"Escambia County, Florida",1,Total:,"15,101",+/-883
+B02011,05000US12035,"Flagler County, Florida",1,Total:,"3,813",+/-564
+B02011,05000US12053,"Hernando County, Florida",1,Total:,"4,241",+/-751
+B02011,05000US12055,"Highlands County, Florida",1,Total:,"1,807",+/-70
+B02011,05000US12057,"Hillsborough County, Florida",1,Total:,"76,920","+/-2,286"
+B02011,05000US12061,"Indian River County, Florida",1,Total:,"2,053","+/-1,155"
+B02011,05000US12069,"Lake County, Florida",1,Total:,"9,542",+/-698
+B02011,05000US12071,"Lee County, Florida",1,Total:,"16,286",+/-895
+B02011,05000US12073,"Leon County, Florida",1,Total:,"13,037",+/-427
+B02011,05000US12081,"Manatee County, Florida",1,Total:,"10,314",+/-294
+B02011,05000US12083,"Marion County, Florida",1,Total:,"7,899",+/-862
+B02011,05000US12085,"Martin County, Florida",1,Total:,"3,028",+/-360
+B02011,05000US12086,"Miami-Dade County, Florida",1,Total:,"57,791","+/-2,818"
+B02011,05000US12087,"Monroe County, Florida",1,Total:,"1,291",+/-229
+B02011,05000US12089,"Nassau County, Florida",1,Total:,"1,296",+/-173
+B02011,05000US12091,"Okaloosa County, Florida",1,Total:,"9,990",+/-387
+B02011,05000US12095,"Orange County, Florida",1,Total:,"88,390","+/-2,484"
+B02011,05000US12097,"Osceola County, Florida",1,Total:,"13,492","+/-1,628"
+B02011,05000US12099,"Palm Beach County, Florida",1,Total:,"53,607","+/-2,491"
+B02011,05000US12101,"Pasco County, Florida",1,Total:,"18,413",+/-788
+B02011,05000US12103,"Pinellas County, Florida",1,Total:,"42,133","+/-1,129"
+B02011,05000US12105,"Polk County, Florida",1,Total:,"16,503",+/-782
+B02011,05000US12107,"Putnam County, Florida",1,Total:,848,+/-461
+B02011,05000US12109,"St. Johns County, Florida",1,Total:,"10,721",+/-781
+B02011,05000US12111,"St. Lucie County, Florida",1,Total:,"7,771",+/-424
+B02011,05000US12113,"Santa Rosa County, Florida",1,Total:,"6,247",+/-484
+B02011,05000US12115,"Sarasota County, Florida",1,Total:,"9,645",+/-566
+B02011,05000US12117,"Seminole County, Florida",1,Total:,"27,125","+/-1,342"
+B02011,05000US12119,"Sumter County, Florida",1,Total:,"1,462",+/-163
+B02011,05000US12127,"Volusia County, Florida",1,Total:,"12,964",+/-259
+B02011,05000US12131,"Walton County, Florida",1,Total:,"1,410","+/-1,020"
+B02011,05000US13013,"Barrow County, Georgia",1,Total:,"3,510",+/-177
+B02011,05000US13015,"Bartow County, Georgia",1,Total:,"1,341",+/-226
+B02011,05000US13021,"Bibb County, Georgia",1,Total:,"3,655",+/-36
+B02011,05000US13031,"Bulloch County, Georgia",1,Total:,"1,301",+/-226
+B02011,05000US13047,"Catoosa County, Georgia",1,Total:,"1,169",+/-119
+B02011,05000US13051,"Chatham County, Georgia",1,Total:,"10,749",+/-928
+B02011,05000US13057,"Cherokee County, Georgia",1,Total:,"6,722",+/-532
+B02011,05000US13059,"Clarke County, Georgia",1,Total:,"6,211",+/-185
+B02011,05000US13063,"Clayton County, Georgia",1,Total:,"16,217",+/-854
+B02011,05000US13067,"Cobb County, Georgia",1,Total:,"48,147","+/-1,130"
+B02011,05000US13073,"Columbia County, Georgia",1,Total:,"8,503",+/-643
+B02011,05000US13077,"Coweta County, Georgia",1,Total:,"3,892",+/-260
+B02011,05000US13089,"DeKalb County, Georgia",1,Total:,"54,519",+/-986
+B02011,05000US13097,"Douglas County, Georgia",1,Total:,"4,227","+/-1,460"
+B02011,05000US13113,"Fayette County, Georgia",1,Total:,"7,117",+/-457
+B02011,05000US13115,"Floyd County, Georgia",1,Total:,"1,807",+/-181
+B02011,05000US13117,"Forsyth County, Georgia",1,Total:,"36,134",+/-179
+B02011,05000US13121,"Fulton County, Georgia",1,Total:,"85,624","+/-1,221"
+B02011,05000US13127,"Glynn County, Georgia",1,Total:,"2,248",+/-620
+B02011,05000US13135,"Gwinnett County, Georgia",1,Total:,"121,334","+/-1,844"
+B02011,05000US13139,"Hall County, Georgia",1,Total:,"4,944",+/-520
+B02011,05000US13151,"Henry County, Georgia",1,Total:,"10,886","+/-1,649"
+B02011,05000US13153,"Houston County, Georgia",1,Total:,"6,208",+/-253
+B02011,05000US13157,"Jackson County, Georgia",1,Total:,"1,629",+/-38
+B02011,05000US13185,"Lowndes County, Georgia",1,Total:,"3,228",+/-364
+B02011,05000US13215,"Muscogee County, Georgia",1,Total:,"8,795","+/-1,530"
+B02011,05000US13217,"Newton County, Georgia",1,Total:,"1,501",+/-226
+B02011,05000US13223,"Paulding County, Georgia",1,Total:,"2,921",+/-589
+B02011,05000US13245,"Richmond County, Georgia",1,Total:,"5,795","+/-1,094"
+B02011,05000US13247,"Rockdale County, Georgia",1,Total:,"1,869",+/-226
+B02011,05000US13255,"Spalding County, Georgia",1,Total:,839,+/-226
+B02011,05000US13285,"Troup County, Georgia",1,Total:,"1,647",+/-226
+B02011,05000US13297,"Walton County, Georgia",1,Total:,"1,853",+/-148
+B02011,05000US13313,"Whitfield County, Georgia",1,Total:,863,+/-556
+B02011,05000US15001,"Hawaii County, Hawaii",1,Total:,"88,048","+/-2,326"
+B02011,05000US15003,"Honolulu County, Hawaii",1,Total:,"603,493","+/-5,172"
+B02011,05000US15007,"Kauai County, Hawaii",1,Total:,"36,898","+/-1,315"
+B02011,05000US15009,"Maui County, Hawaii",1,Total:,"78,885","+/-1,726"
+B02011,05000US16001,"Ada County, Idaho",1,Total:,"19,638","+/-1,051"
+B02011,05000US16005,"Bannock County, Idaho",1,Total:,"2,278",+/-261
+B02011,05000US16019,"Bonneville County, Idaho",1,Total:,"3,142",+/-232
+B02011,05000US16027,"Canyon County, Idaho",1,Total:,"4,719","+/-1,195"
+B02011,05000US16055,"Kootenai County, Idaho",1,Total:,"3,084",+/-499
+B02011,05000US16083,"Twin Falls County, Idaho",1,Total:,"2,345",+/-399
+B02011,05000US17001,"Adams County, Illinois",1,Total:,813,+/-190
+B02011,05000US17019,"Champaign County, Illinois",1,Total:,"25,698",+/-469
+B02011,05000US17031,"Cook County, Illinois",1,Total:,"445,378","+/-3,173"
+B02011,05000US17037,"DeKalb County, Illinois",1,Total:,"3,644",+/-381
+B02011,05000US17043,"DuPage County, Illinois",1,Total:,"125,861","+/-1,485"
+B02011,05000US17089,"Kane County, Illinois",1,Total:,"27,668","+/-1,733"
+B02011,05000US17091,"Kankakee County, Illinois",1,Total:,"1,489",+/-129
+B02011,05000US17093,"Kendall County, Illinois",1,Total:,"5,816","+/-1,225"
+B02011,05000US17097,"Lake County, Illinois",1,Total:,"63,592","+/-1,041"
+B02011,05000US17099,"LaSalle County, Illinois",1,Total:,"1,294",+/-190
+B02011,05000US17111,"McHenry County, Illinois",1,Total:,"10,915",+/-150
+B02011,05000US17113,"McLean County, Illinois",1,Total:,"10,785",+/-521
+B02011,05000US17115,"Macon County, Illinois",1,Total:,"1,579",+/-190
+B02011,05000US17119,"Madison County, Illinois",1,Total:,"4,044",+/-313
+B02011,05000US17143,"Peoria County, Illinois",1,Total:,"8,967",+/-807
+B02011,05000US17161,"Rock Island County, Illinois",1,Total:,"4,692",+/-244
+B02011,05000US17163,"St. Clair County, Illinois",1,Total:,"6,199",+/-397
+B02011,05000US17167,"Sangamon County, Illinois",1,Total:,"5,063",+/-237
+B02011,05000US17179,"Tazewell County, Illinois",1,Total:,"2,019",+/-553
+B02011,05000US17183,"Vermilion County, Illinois",1,Total:,965,+/-102
+B02011,05000US17197,"Will County, Illinois",1,Total:,"45,616",+/-698
+B02011,05000US17199,"Williamson County, Illinois",1,Total:,"1,119",+/-190
+B02011,05000US17201,"Winnebago County, Illinois",1,Total:,"9,799",+/-370
+B02011,05000US18003,"Allen County, Indiana",1,Total:,"19,033","+/-1,130"
+B02011,05000US18005,"Bartholomew County, Indiana",1,Total:,"7,360",+/-676
+B02011,05000US18011,"Boone County, Indiana",1,Total:,"2,153",+/-477
+B02011,05000US18019,"Clark County, Indiana",1,Total:,"1,705",+/-98
+B02011,05000US18035,"Delaware County, Indiana",1,Total:,"2,328",+/-359
+B02011,05000US18039,"Elkhart County, Indiana",1,Total:,"2,998",+/-93
+B02011,05000US18043,"Floyd County, Indiana",1,Total:,"1,154",+/-198
+B02011,05000US18053,"Grant County, Indiana",1,Total:,302,+/-270
+B02011,05000US18057,"Hamilton County, Indiana",1,Total:,"24,161",+/-759
+B02011,05000US18059,"Hancock County, Indiana",1,Total:,891,+/-139
+B02011,05000US18063,"Hendricks County, Indiana",1,Total:,"6,227",+/-738
+B02011,05000US18067,"Howard County, Indiana",1,Total:,"1,291",+/-198
+B02011,05000US18081,"Johnson County, Indiana",1,Total:,"6,605",+/-521
+B02011,05000US18085,"Kosciusko County, Indiana",1,Total:,"1,292",+/-422
+B02011,05000US18089,"Lake County, Indiana",1,Total:,"9,696",+/-445
+B02011,05000US18091,"LaPorte County, Indiana",1,Total:,280,+/-250
+B02011,05000US18095,"Madison County, Indiana",1,Total:,772,+/-433
+B02011,05000US18097,"Marion County, Indiana",1,Total:,"40,421","+/-1,175"
+B02011,05000US18105,"Monroe County, Indiana",1,Total:,"12,076",+/-619
+B02011,05000US18127,"Porter County, Indiana",1,Total:,"3,213",+/-302
+B02011,05000US18141,"St. Joseph County, Indiana",1,Total:,"9,127",+/-540
+B02011,05000US18157,"Tippecanoe County, Indiana",1,Total:,"18,157",+/-378
+B02011,05000US18163,"Vanderburgh County, Indiana",1,Total:,"3,173",+/-189
+B02011,05000US18167,"Vigo County, Indiana",1,Total:,"2,604",+/-50
+B02011,05000US18177,"Wayne County, Indiana",1,Total:,697,+/-450
+B02011,05000US19013,"Black Hawk County, Iowa",1,Total:,"4,267",+/-375
+B02011,05000US19049,"Dallas County, Iowa",1,Total:,"5,086",+/-209
+B02011,05000US19061,"Dubuque County, Iowa",1,Total:,"1,788",+/-243
+B02011,05000US19103,"Johnson County, Iowa",1,Total:,"10,846","+/-1,252"
+B02011,05000US19113,"Linn County, Iowa",1,Total:,"7,072",+/-163
+B02011,05000US19153,"Polk County, Iowa",1,Total:,"27,816",+/-322
+B02011,05000US19155,"Pottawattamie County, Iowa",1,Total:,"1,282",+/-211
+B02011,05000US19163,"Scott County, Iowa",1,Total:,"6,364",+/-610
+B02011,05000US19169,"Story County, Iowa",1,Total:,"9,224",+/-161
+B02011,05000US19193,"Woodbury County, Iowa",1,Total:,"3,426",+/-163
+B02011,05000US20015,"Butler County, Kansas",1,Total:,"1,352",+/-367
+B02011,05000US20045,"Douglas County, Kansas",1,Total:,"7,493",+/-363
+B02011,05000US20091,"Johnson County, Kansas",1,Total:,"35,970",+/-336
+B02011,05000US20103,"Leavenworth County, Kansas",1,Total:,"1,957",+/-117
+B02011,05000US20161,"Riley County, Kansas",1,Total:,"4,827",+/-420
+B02011,05000US20173,"Sedgwick County, Kansas",1,Total:,"27,048",+/-694
+B02011,05000US20177,"Shawnee County, Kansas",1,Total:,"4,072",+/-493
+B02011,05000US20209,"Wyandotte County, Kansas",1,Total:,"9,014",+/-111
+B02011,05000US21015,"Boone County, Kentucky",1,Total:,"4,107",+/-197
+B02011,05000US21029,"Bullitt County, Kentucky",1,Total:,933,+/-744
+B02011,05000US21037,"Campbell County, Kentucky",1,Total:,"1,212",+/-197
+B02011,05000US21047,"Christian County, Kentucky",1,Total:,"1,690",+/-353
+B02011,05000US21059,"Daviess County, Kentucky",1,Total:,"2,202",+/-250
+B02011,05000US21067,"Fayette County, Kentucky",1,Total:,"15,804",+/-262
+B02011,05000US21093,"Hardin County, Kentucky",1,Total:,"3,729",+/-337
+B02011,05000US21111,"Jefferson County, Kentucky",1,Total:,"27,881","+/-1,030"
+B02011,05000US21117,"Kenton County, Kentucky",1,Total:,"2,764",+/-197
+B02011,05000US21145,"McCracken County, Kentucky",1,Total:,700,+/-536
+B02011,05000US21151,"Madison County, Kentucky",1,Total:,"1,581",+/-242
+B02011,05000US21185,"Oldham County, Kentucky",1,Total:,"1,608",+/-344
+B02011,05000US21227,"Warren County, Kentucky",1,Total:,"6,380",+/-86
+B02011,05000US22005,"Ascension Parish, Louisiana",1,Total:,"1,939",+/-217
+B02011,05000US22015,"Bossier Parish, Louisiana",1,Total:,"3,398",+/-428
+B02011,05000US22017,"Caddo Parish, Louisiana",1,Total:,"4,264",+/-469
+B02011,05000US22019,"Calcasieu Parish, Louisiana",1,Total:,"3,353",+/-172
+B02011,05000US22033,"East Baton Rouge Parish, Louisiana",1,Total:,"17,082",+/-988
+B02011,05000US22045,"Iberia Parish, Louisiana",1,Total:,"2,360",+/-368
+B02011,05000US22051,"Jefferson Parish, Louisiana",1,Total:,"21,769","+/-1,513"
+B02011,05000US22055,"Lafayette Parish, Louisiana",1,Total:,"5,593",+/-364
+B02011,05000US22057,"Lafourche Parish, Louisiana",1,Total:,"1,039",+/-69
+B02011,05000US22063,"Livingston Parish, Louisiana",1,Total:,"1,211",+/-217
+B02011,05000US22071,"Orleans Parish, Louisiana",1,Total:,"12,607",+/-650
+B02011,05000US22073,"Ouachita Parish, Louisiana",1,Total:,"2,176",+/-404
+B02011,05000US22079,"Rapides Parish, Louisiana",1,Total:,"2,313",+/-176
+B02011,05000US22103,"St. Tammany Parish, Louisiana",1,Total:,"5,514","+/-1,005"
+B02011,05000US22105,"Tangipahoa Parish, Louisiana",1,Total:,"1,266",+/-217
+B02011,05000US22109,"Terrebonne Parish, Louisiana",1,Total:,"1,556",+/-213
+B02011,05000US23001,"Androscoggin County, Maine",1,Total:,"1,449",+/-48
+B02011,05000US23003,"Aroostook County, Maine",1,Total:,494,+/-115
+B02011,05000US23005,"Cumberland County, Maine",1,Total:,"9,350",+/-631
+B02011,05000US23011,"Kennebec County, Maine",1,Total:,"1,617",+/-170
+B02011,05000US23019,"Penobscot County, Maine",1,Total:,"2,351",+/-132
+B02011,05000US23031,"York County, Maine",1,Total:,"3,844",+/-201
+B02011,05000US24001,"Allegany County, Maryland",1,Total:,428,+/-232
+B02011,05000US24003,"Anne Arundel County, Maryland",1,Total:,"32,648","+/-1,615"
+B02011,05000US24005,"Baltimore County, Maryland",1,Total:,"59,250","+/-1,223"
+B02011,05000US24009,"Calvert County, Maryland",1,Total:,"2,781",+/-302
+B02011,05000US24013,"Carroll County, Maryland",1,Total:,"4,736",+/-445
+B02011,05000US24015,"Cecil County, Maryland",1,Total:,"2,363",+/-351
+B02011,05000US24017,"Charles County, Maryland",1,Total:,"7,269",+/-647
+B02011,05000US24021,"Frederick County, Maryland",1,Total:,"14,278",+/-559
+B02011,05000US24025,"Harford County, Maryland",1,Total:,"9,949",+/-548
+B02011,05000US24027,"Howard County, Maryland",1,Total:,"65,105","+/-1,766"
+B02011,05000US24031,"Montgomery County, Maryland",1,Total:,"178,006","+/-2,442"
+B02011,05000US24033,"Prince George's County, Maryland",1,Total:,"46,063","+/-1,582"
+B02011,05000US24037,"St. Mary's County, Maryland",1,Total:,"4,362",+/-64
+B02011,05000US24043,"Washington County, Maryland",1,Total:,"3,865",+/-375
+B02011,05000US24045,"Wicomico County, Maryland",1,Total:,"3,655",+/-206
+B02011,05000US24510,"Baltimore city, Maryland",1,Total:,"20,437","+/-1,243"
+B02011,05000US25001,"Barnstable County, Massachusetts",1,Total:,"4,151",+/-114
+B02011,05000US25003,"Berkshire County, Massachusetts",1,Total:,"2,884",+/-159
+B02011,05000US25005,"Bristol County, Massachusetts",1,Total:,"15,490","+/-1,520"
+B02011,05000US25009,"Essex County, Massachusetts",1,Total:,"34,342","+/-1,462"
+B02011,05000US25011,"Franklin County, Massachusetts",1,Total:,"1,759",+/-53
+B02011,05000US25013,"Hampden County, Massachusetts",1,Total:,"13,895",+/-373
+B02011,05000US25015,"Hampshire County, Massachusetts",1,Total:,"10,872",+/-587
+B02011,05000US25017,"Middlesex County, Massachusetts",1,Total:,"225,256","+/-1,931"
+B02011,05000US25021,"Norfolk County, Massachusetts",1,Total:,"91,730","+/-1,045"
+B02011,05000US25023,"Plymouth County, Massachusetts",1,Total:,"10,264",+/-373
+B02011,05000US25025,"Suffolk County, Massachusetts",1,Total:,"80,260","+/-1,580"
+B02011,05000US25027,"Worcester County, Massachusetts",1,Total:,"49,170",+/-918
+B02011,05000US26005,"Allegan County, Michigan",1,Total:,"1,281",+/-172
+B02011,05000US26017,"Bay County, Michigan",1,Total:,681,+/-667
+B02011,05000US26021,"Berrien County, Michigan",1,Total:,"4,166",+/-372
+B02011,05000US26025,"Calhoun County, Michigan",1,Total:,"4,571",+/-138
+B02011,05000US26037,"Clinton County, Michigan",1,Total:,"1,676",+/-172
+B02011,05000US26045,"Eaton County, Michigan",1,Total:,"3,225",+/-140
+B02011,05000US26049,"Genesee County, Michigan",1,Total:,"6,230",+/-386
+B02011,05000US26055,"Grand Traverse County, Michigan",1,Total:,"1,048",+/-172
+B02011,05000US26065,"Ingham County, Michigan",1,Total:,"24,032",+/-441
+B02011,05000US26073,"Isabella County, Michigan",1,Total:,"1,789",+/-173
+B02011,05000US26075,"Jackson County, Michigan",1,Total:,"1,932",+/-40
+B02011,05000US26077,"Kalamazoo County, Michigan",1,Total:,"9,116",+/-346
+B02011,05000US26081,"Kent County, Michigan",1,Total:,"25,169",+/-362
+B02011,05000US26087,"Lapeer County, Michigan",1,Total:,784,+/-93
+B02011,05000US26091,"Lenawee County, Michigan",1,Total:,719,+/-172
+B02011,05000US26093,"Livingston County, Michigan",1,Total:,"2,748",+/-197
+B02011,05000US26099,"Macomb County, Michigan",1,Total:,"43,231",+/-634
+B02011,05000US26103,"Marquette County, Michigan",1,Total:,859,+/-102
+B02011,05000US26111,"Midland County, Michigan",1,Total:,"2,194",+/-416
+B02011,05000US26115,"Monroe County, Michigan",1,Total:,"1,534",+/-149
+B02011,05000US26121,"Muskegon County, Michigan",1,Total:,"1,932",+/-390
+B02011,05000US26125,"Oakland County, Michigan",1,Total:,"111,661",+/-816
+B02011,05000US26139,"Ottawa County, Michigan",1,Total:,"10,658",+/-606
+B02011,05000US26145,"Saginaw County, Michigan",1,Total:,"3,487",+/-216
+B02011,05000US26147,"St. Clair County, Michigan",1,Total:,"1,513",+/-172
+B02011,05000US26155,"Shiawassee County, Michigan",1,Total:,614,+/-154
+B02011,05000US26159,"Van Buren County, Michigan",1,Total:,368,+/-339
+B02011,05000US26161,"Washtenaw County, Michigan",1,Total:,"40,621",+/-664
+B02011,05000US26163,"Wayne County, Michigan",1,Total:,"73,166","+/-1,433"
+B02011,05000US27003,"Anoka County, Minnesota",1,Total:,"19,904",+/-407
+B02011,05000US27013,"Blue Earth County, Minnesota",1,Total:,"2,295",+/-309
+B02011,05000US27019,"Carver County, Minnesota",1,Total:,"4,108",+/-113
+B02011,05000US27037,"Dakota County, Minnesota",1,Total:,"25,700",+/-485
+B02011,05000US27053,"Hennepin County, Minnesota",1,Total:,"109,014","+/-2,370"
+B02011,05000US27109,"Olmsted County, Minnesota",1,Total:,"11,804",+/-435
+B02011,05000US27123,"Ramsey County, Minnesota",1,Total:,"89,660",+/-788
+B02011,05000US27131,"Rice County, Minnesota",1,Total:,"2,000",+/-152
+B02011,05000US27137,"St. Louis County, Minnesota",1,Total:,"3,171",+/-86
+B02011,05000US27139,"Scott County, Minnesota",1,Total:,"10,570",+/-120
+B02011,05000US27141,"Sherburne County, Minnesota",1,Total:,"1,773",+/-147
+B02011,05000US27145,"Stearns County, Minnesota",1,Total:,"4,446",+/-147
+B02011,05000US27163,"Washington County, Minnesota",1,Total:,"18,618",+/-401
+B02011,05000US27171,"Wright County, Minnesota",1,Total:,"2,723",+/-342
+B02011,05000US28033,"DeSoto County, Mississippi",1,Total:,"3,688",+/-610
+B02011,05000US28035,"Forrest County, Mississippi",1,Total:,928,+/-50
+B02011,05000US28047,"Harrison County, Mississippi",1,Total:,"8,020",+/-878
+B02011,05000US28049,"Hinds County, Mississippi",1,Total:,"2,183",+/-239
+B02011,05000US28059,"Jackson County, Mississippi",1,Total:,"4,331",+/-584
+B02011,05000US28075,"Lauderdale County, Mississippi",1,Total:,798,+/-101
+B02011,05000US28081,"Lee County, Mississippi",1,Total:,504,+/-436
+B02011,05000US28089,"Madison County, Mississippi",1,Total:,"3,021",+/-218
+B02011,05000US28121,"Rankin County, Mississippi",1,Total:,"2,397",+/-218
+B02011,05000US29019,"Boone County, Missouri",1,Total:,"10,898",+/-103
+B02011,05000US29021,"Buchanan County, Missouri",1,Total:,"1,895",+/-278
+B02011,05000US29031,"Cape Girardeau County, Missouri",1,Total:,"1,682",+/-190
+B02011,05000US29037,"Cass County, Missouri",1,Total:,"1,456",+/-190
+B02011,05000US29043,"Christian County, Missouri",1,Total:,954,+/-190
+B02011,05000US29047,"Clay County, Missouri",1,Total:,"7,845",+/-505
+B02011,05000US29051,"Cole County, Missouri",1,Total:,"1,344",+/-124
+B02011,05000US29071,"Franklin County, Missouri",1,Total:,914,+/-193
+B02011,05000US29077,"Greene County, Missouri",1,Total:,"8,471",+/-463
+B02011,05000US29095,"Jackson County, Missouri",1,Total:,"17,819",+/-727
+B02011,05000US29097,"Jasper County, Missouri",1,Total:,"1,894",+/-190
+B02011,05000US29099,"Jefferson County, Missouri",1,Total:,"2,553",+/-190
+B02011,05000US29165,"Platte County, Missouri",1,Total:,"4,382",+/-585
+B02011,05000US29183,"St. Charles County, Missouri",1,Total:,"13,002",+/-266
+B02011,05000US29189,"St. Louis County, Missouri",1,Total:,"52,223",+/-989
+B02011,05000US29510,"St. Louis city, Missouri",1,Total:,"13,247",+/-845
+B02011,05000US30013,"Cascade County, Montana",1,Total:,"1,431",+/-146
+B02011,05000US30029,"Flathead County, Montana",1,Total:,"1,996",+/-890
+B02011,05000US30031,"Gallatin County, Montana",1,Total:,"2,678",+/-339
+B02011,05000US30049,"Lewis and Clark County, Montana",1,Total:,794,+/-172
+B02011,05000US30063,"Missoula County, Montana",1,Total:,"3,090",+/-172
+B02011,05000US30111,"Yellowstone County, Montana",1,Total:,"2,071",+/-208
+B02011,05000US31055,"Douglas County, Nebraska",1,Total:,"28,050",+/-669
+B02011,05000US31109,"Lancaster County, Nebraska",1,Total:,"17,736",+/-311
+B02011,05000US31153,"Sarpy County, Nebraska",1,Total:,"7,653","+/-1,022"
+B02011,05000US32003,"Clark County, Nevada",1,Total:,"275,929","+/-4,018"
+B02011,05000US32031,"Washoe County, Nevada",1,Total:,"33,096",+/-611
+B02011,05000US33005,"Cheshire County, New Hampshire",1,Total:,"2,336",+/-447
+B02011,05000US33009,"Grafton County, New Hampshire",1,Total:,"4,005",+/-163
+B02011,05000US33011,"Hillsborough County, New Hampshire",1,Total:,"21,485",+/-309
+B02011,05000US33013,"Merrimack County, New Hampshire",1,Total:,"4,046",+/-345
+B02011,05000US33015,"Rockingham County, New Hampshire",1,Total:,"8,121",+/-731
+B02011,05000US33017,"Strafford County, New Hampshire",1,Total:,"5,407",+/-455
+B02011,05000US34001,"Atlantic County, New Jersey",1,Total:,"25,462","+/-1,691"
+B02011,05000US34003,"Bergen County, New Jersey",1,Total:,"168,626","+/-1,773"
+B02011,05000US34005,"Burlington County, New Jersey",1,Total:,"28,846","+/-1,114"
+B02011,05000US34007,"Camden County, New Jersey",1,Total:,"33,869","+/-1,224"
+B02011,05000US34009,"Cape May County, New Jersey",1,Total:,"1,913",+/-749
+B02011,05000US34011,"Cumberland County, New Jersey",1,Total:,"2,704",+/-351
+B02011,05000US34013,"Essex County, New Jersey",1,Total:,"51,643","+/-1,894"
+B02011,05000US34015,"Gloucester County, New Jersey",1,Total:,"10,764",+/-334
+B02011,05000US34017,"Hudson County, New Jersey",1,Total:,"118,147","+/-2,567"
+B02011,05000US34019,"Hunterdon County, New Jersey",1,Total:,"6,136",+/-523
+B02011,05000US34021,"Mercer County, New Jersey",1,Total:,"45,186",+/-192
+B02011,05000US34023,"Middlesex County, New Jersey",1,Total:,"212,950","+/-1,788"
+B02011,05000US34025,"Monmouth County, New Jersey",1,Total:,"39,694",+/-869
+B02011,05000US34027,"Morris County, New Jersey",1,Total:,"57,651",+/-433
+B02011,05000US34029,"Ocean County, New Jersey",1,Total:,"13,928",+/-370
+B02011,05000US34031,"Passaic County, New Jersey",1,Total:,"30,426",+/-820
+B02011,05000US34033,"Salem County, New Jersey",1,Total:,809,+/-210
+B02011,05000US34035,"Somerset County, New Jersey",1,Total:,"65,147",+/-740
+B02011,05000US34037,"Sussex County, New Jersey",1,Total:,"4,058",+/-546
+B02011,05000US34039,"Union County, New Jersey",1,Total:,"34,408","+/-1,251"
+B02011,05000US34041,"Warren County, New Jersey",1,Total:,"3,682",+/-174
+B02011,05000US35001,"Bernalillo County, New Mexico",1,Total:,"24,651","+/-1,134"
+B02011,05000US35005,"Chaves County, New Mexico",1,Total:,628,+/-615
+B02011,05000US35013,"Doña Ana County, New Mexico",1,Total:,"3,931",+/-904
+B02011,05000US35025,"Lea County, New Mexico",1,Total:,765,+/-729
+B02011,05000US35031,"McKinley County, New Mexico",1,Total:,825,+/-201
+B02011,05000US35035,"Otero County, New Mexico",1,Total:,"1,255",+/-201
+B02011,05000US35043,"Sandoval County, New Mexico",1,Total:,"3,179",+/-344
+B02011,05000US35045,"San Juan County, New Mexico",1,Total:,"1,566",+/-754
+B02011,05000US35049,"Santa Fe County, New Mexico",1,Total:,"3,050",+/-483
+B02011,05000US35061,"Valencia County, New Mexico",1,Total:,621,+/-619
+B02011,05000US36001,"Albany County, New York",1,Total:,"23,862",+/-672
+B02011,05000US36005,"Bronx County, New York",1,Total:,"65,784","+/-2,179"
+B02011,05000US36007,"Broome County, New York",1,Total:,"10,135",+/-440
+B02011,05000US36009,"Cattaraugus County, New York",1,Total:,948,+/-168
+B02011,05000US36011,"Cayuga County, New York",1,Total:,774,+/-164
+B02011,05000US36013,"Chautauqua County, New York",1,Total:,"1,249",+/-131
+B02011,05000US36015,"Chemung County, New York",1,Total:,"1,751",+/-245
+B02011,05000US36019,"Clinton County, New York",1,Total:,"1,036",+/-439
+B02011,05000US36027,"Dutchess County, New York",1,Total:,"13,124","+/-1,012"
+B02011,05000US36029,"Erie County, New York",1,Total:,"39,625",+/-590
+B02011,05000US36045,"Jefferson County, New York",1,Total:,"2,851",+/-336
+B02011,05000US36047,"Kings County, New York",1,Total:,"347,387","+/-2,187"
+B02011,05000US36051,"Livingston County, New York",1,Total:,"1,083",+/-544
+B02011,05000US36053,"Madison County, New York",1,Total:,"1,991",+/-444
+B02011,05000US36055,"Monroe County, New York",1,Total:,"34,163","+/-1,214"
+B02011,05000US36059,"Nassau County, New York",1,Total:,"150,097","+/-2,143"
+B02011,05000US36061,"New York County, New York",1,Total:,"227,248","+/-2,023"
+B02011,05000US36063,"Niagara County, New York",1,Total:,"3,181",+/-187
+B02011,05000US36065,"Oneida County, New York",1,Total:,"10,824",+/-427
+B02011,05000US36067,"Onondaga County, New York",1,Total:,"21,256",+/-363
+B02011,05000US36069,"Ontario County, New York",1,Total:,"1,623",+/-412
+B02011,05000US36071,"Orange County, New York",1,Total:,"15,060","+/-1,502"
+B02011,05000US36075,"Oswego County, New York",1,Total:,"1,626",+/-447
+B02011,05000US36079,"Putnam County, New York",1,Total:,"2,631",+/-201
+B02011,05000US36081,"Queens County, New York",1,Total:,"627,785","+/-3,009"
+B02011,05000US36083,"Rensselaer County, New York",1,Total:,"5,290",+/-275
+B02011,05000US36085,"Richmond County, New York",1,Total:,"52,604","+/-1,436"
+B02011,05000US36087,"Rockland County, New York",1,Total:,"22,163",+/-548
+B02011,05000US36089,"St. Lawrence County, New York",1,Total:,"1,627",+/-57
+B02011,05000US36091,"Saratoga County, New York",1,Total:,"8,212",+/-425
+B02011,05000US36093,"Schenectady County, New York",1,Total:,"9,234",+/-871
+B02011,05000US36101,"Steuben County, New York",1,Total:,"1,712",+/-10
+B02011,05000US36103,"Suffolk County, New York",1,Total:,"70,597","+/-1,404"
+B02011,05000US36105,"Sullivan County, New York",1,Total:,"1,622",+/-135
+B02011,05000US36109,"Tompkins County, New York",1,Total:,"11,698",+/-871
+B02011,05000US36111,"Ulster County, New York",1,Total:,"4,867",+/-184
+B02011,05000US36113,"Warren County, New York",1,Total:,"1,366",+/-582
+B02011,05000US36117,"Wayne County, New York",1,Total:,817,+/-188
+B02011,05000US36119,"Westchester County, New York",1,Total:,"68,609","+/-1,437"
+B02011,05000US37001,"Alamance County, North Carolina",1,Total:,"3,373",+/-199
+B02011,05000US37021,"Buncombe County, North Carolina",1,Total:,"4,533",+/-98
+B02011,05000US37023,"Burke County, North Carolina",1,Total:,"3,469",+/-210
+B02011,05000US37025,"Cabarrus County, North Carolina",1,Total:,"9,710",+/-210
+B02011,05000US37027,"Caldwell County, North Carolina",1,Total:,616,+/-614
+B02011,05000US37031,"Carteret County, North Carolina",1,Total:,"1,194",+/-210
+B02011,05000US37035,"Catawba County, North Carolina",1,Total:,"7,347",+/-160
+B02011,05000US37037,"Chatham County, North Carolina",1,Total:,"1,710",+/-210
+B02011,05000US37045,"Cleveland County, North Carolina",1,Total:,"1,190",+/-107
+B02011,05000US37049,"Craven County, North Carolina",1,Total:,"3,995",+/-192
+B02011,05000US37051,"Cumberland County, North Carolina",1,Total:,"14,643","+/-1,386"
+B02011,05000US37057,"Davidson County, North Carolina",1,Total:,"3,610",+/-768
+B02011,05000US37063,"Durham County, North Carolina",1,Total:,"19,372",+/-658
+B02011,05000US37067,"Forsyth County, North Carolina",1,Total:,"10,782",+/-102
+B02011,05000US37069,"Franklin County, North Carolina",1,Total:,602,+/-48
+B02011,05000US37071,"Gaston County, North Carolina",1,Total:,"5,071",+/-608
+B02011,05000US37081,"Guilford County, North Carolina",1,Total:,"31,449","+/-1,328"
+B02011,05000US37085,"Harnett County, North Carolina",1,Total:,"2,754",+/-664
+B02011,05000US37089,"Henderson County, North Carolina",1,Total:,"1,758",+/-210
+B02011,05000US37097,"Iredell County, North Carolina",1,Total:,"5,404",+/-160
+B02011,05000US37101,"Johnston County, North Carolina",1,Total:,"2,412",+/-460
+B02011,05000US37119,"Mecklenburg County, North Carolina",1,Total:,"76,652","+/-1,931"
+B02011,05000US37125,"Moore County, North Carolina",1,Total:,"1,860",+/-210
+B02011,05000US37129,"New Hanover County, North Carolina",1,Total:,"5,099",+/-701
+B02011,05000US37133,"Onslow County, North Carolina",1,Total:,"7,743","+/-1,192"
+B02011,05000US37135,"Orange County, North Carolina",1,Total:,"13,384",+/-206
+B02011,05000US37147,"Pitt County, North Carolina",1,Total:,"5,184",+/-710
+B02011,05000US37151,"Randolph County, North Carolina",1,Total:,"2,709",+/-584
+B02011,05000US37155,"Robeson County, North Carolina",1,Total:,"1,024",+/-94
+B02011,05000US37157,"Rockingham County, North Carolina",1,Total:,387,+/-332
+B02011,05000US37159,"Rowan County, North Carolina",1,Total:,"1,888",+/-210
+B02011,05000US37179,"Union County, North Carolina",1,Total:,"8,817",+/-161
+B02011,05000US37183,"Wake County, North Carolina",1,Total:,"91,254","+/-1,751"
+B02011,05000US37191,"Wayne County, North Carolina",1,Total:,"4,009","+/-1,564"
+B02011,05000US37193,"Wilkes County, North Carolina",1,Total:,471,+/-413
+B02011,05000US37195,"Wilson County, North Carolina",1,Total:,809,+/-788
+B02011,05000US38015,"Burleigh County, North Dakota",1,Total:,"1,172",+/-185
+B02011,05000US38017,"Cass County, North Dakota",1,Total:,"7,831",+/-397
+B02011,05000US38035,"Grand Forks County, North Dakota",1,Total:,"2,694",+/-161
+B02011,05000US38101,"Ward County, North Dakota",1,Total:,"1,701",+/-93
+B02011,05000US39003,"Allen County, Ohio",1,Total:,"1,175",+/-163
+B02011,05000US39009,"Athens County, Ohio",1,Total:,"2,293",+/-774
+B02011,05000US39013,"Belmont County, Ohio",1,Total:,710,+/-688
+B02011,05000US39017,"Butler County, Ohio",1,Total:,"16,381",+/-538
+B02011,05000US39023,"Clark County, Ohio",1,Total:,"1,487",+/-125
+B02011,05000US39025,"Clermont County, Ohio",1,Total:,"3,626",+/-246
+B02011,05000US39029,"Columbiana County, Ohio",1,Total:,645,+/-446
+B02011,05000US39035,"Cuyahoga County, Ohio",1,Total:,"50,439","+/-1,418"
+B02011,05000US39041,"Delaware County, Ohio",1,Total:,"16,216",+/-42
+B02011,05000US39045,"Fairfield County, Ohio",1,Total:,"3,432",+/-84
+B02011,05000US39049,"Franklin County, Ohio",1,Total:,"85,598","+/-1,779"
+B02011,05000US39055,"Geauga County, Ohio",1,Total:,881,+/-195
+B02011,05000US39057,"Greene County, Ohio",1,Total:,"7,124",+/-437
+B02011,05000US39061,"Hamilton County, Ohio",1,Total:,"28,999","+/-1,571"
+B02011,05000US39063,"Hancock County, Ohio",1,Total:,"1,528",+/-528
+B02011,05000US39081,"Jefferson County, Ohio",1,Total:,"1,351","+/-1,015"
+B02011,05000US39085,"Lake County, Ohio",1,Total:,"4,361",+/-102
+B02011,05000US39089,"Licking County, Ohio",1,Total:,"4,632",+/-886
+B02011,05000US39093,"Lorain County, Ohio",1,Total:,"5,325",+/-274
+B02011,05000US39095,"Lucas County, Ohio",1,Total:,"10,002",+/-520
+B02011,05000US39099,"Mahoning County, Ohio",1,Total:,"3,190",+/-542
+B02011,05000US39101,"Marion County, Ohio",1,Total:,498,+/-195
+B02011,05000US39103,"Medina County, Ohio",1,Total:,"2,818",+/-195
+B02011,05000US39109,"Miami County, Ohio",1,Total:,"2,174",+/-195
+B02011,05000US39113,"Montgomery County, Ohio",1,Total:,"15,602",+/-344
+B02011,05000US39119,"Muskingum County, Ohio",1,Total:,827,+/-160
+B02011,05000US39133,"Portage County, Ohio",1,Total:,"4,157",+/-195
+B02011,05000US39139,"Richland County, Ohio",1,Total:,"1,158",+/-217
+B02011,05000US39141,"Ross County, Ohio",1,Total:,"1,411",+/-900
+B02011,05000US39151,"Stark County, Ohio",1,Total:,"4,811",+/-169
+B02011,05000US39153,"Summit County, Ohio",1,Total:,"24,017",+/-915
+B02011,05000US39155,"Trumbull County, Ohio",1,Total:,"1,564",+/-195
+B02011,05000US39157,"Tuscarawas County, Ohio",1,Total:,486,+/-470
+B02011,05000US39165,"Warren County, Ohio",1,Total:,"15,964",+/-579
+B02011,05000US39169,"Wayne County, Ohio",1,Total:,848,+/-577
+B02011,05000US39173,"Wood County, Ohio",1,Total:,"3,095",+/-261
+B02011,05000US40017,"Canadian County, Oklahoma",1,Total:,"5,273",+/-161
+B02011,05000US40027,"Cleveland County, Oklahoma",1,Total:,"16,594",+/-680
+B02011,05000US40031,"Comanche County, Oklahoma",1,Total:,"5,257",+/-657
+B02011,05000US40037,"Creek County, Oklahoma",1,Total:,867,+/-271
+B02011,05000US40101,"Muskogee County, Oklahoma",1,Total:,250,+/-178
+B02011,05000US40109,"Oklahoma County, Oklahoma",1,Total:,"36,210","+/-1,776"
+B02011,05000US40119,"Payne County, Oklahoma",1,Total:,"4,386",+/-161
+B02011,05000US40125,"Pottawatomie County, Oklahoma",1,Total:,755,+/-161
+B02011,05000US40131,"Rogers County, Oklahoma",1,Total:,"1,828",+/-186
+B02011,05000US40143,"Tulsa County, Oklahoma",1,Total:,"26,143",+/-540
+B02011,05000US40145,"Wagoner County, Oklahoma",1,Total:,"1,625",+/-161
+B02011,05000US41003,"Benton County, Oregon",1,Total:,"8,351",+/-244
+B02011,05000US41005,"Clackamas County, Oregon",1,Total:,"25,765",+/-444
+B02011,05000US41017,"Deschutes County, Oregon",1,Total:,"5,218",+/-738
+B02011,05000US41019,"Douglas County, Oregon",1,Total:,"2,155",+/-389
+B02011,05000US41029,"Jackson County, Oregon",1,Total:,"5,789",+/-952
+B02011,05000US41033,"Josephine County, Oregon",1,Total:,"1,474",+/-122
+B02011,05000US41035,"Klamath County, Oregon",1,Total:,"1,244",+/-252
+B02011,05000US41039,"Lane County, Oregon",1,Total:,"17,561",+/-422
+B02011,05000US41043,"Linn County, Oregon",1,Total:,"2,422",+/-106
+B02011,05000US41047,"Marion County, Oregon",1,Total:,"11,175",+/-447
+B02011,05000US41051,"Multnomah County, Oregon",1,Total:,"79,948",+/-688
+B02011,05000US41053,"Polk County, Oregon",1,Total:,"2,752",+/-169
+B02011,05000US41059,"Umatilla County, Oregon",1,Total:,"1,211",+/-155
+B02011,05000US41067,"Washington County, Oregon",1,Total:,"80,745",+/-883
+B02011,05000US41071,"Yamhill County, Oregon",1,Total:,"3,046","+/-1,062"
+B02011,05000US42001,"Adams County, Pennsylvania",1,Total:,"1,159",+/-177
+B02011,05000US42003,"Allegheny County, Pennsylvania",1,Total:,"56,657","+/-1,293"
+B02011,05000US42005,"Armstrong County, Pennsylvania",1,Total:,284,+/-177
+B02011,05000US42007,"Beaver County, Pennsylvania",1,Total:,"1,339",+/-8
+B02011,05000US42011,"Berks County, Pennsylvania",1,Total:,"7,380",+/-563
+B02011,05000US42013,"Blair County, Pennsylvania",1,Total:,991,+/-770
+B02011,05000US42017,"Bucks County, Pennsylvania",1,Total:,"37,271",+/-776
+B02011,05000US42019,"Butler County, Pennsylvania",1,Total:,"3,517",+/-507
+B02011,05000US42021,"Cambria County, Pennsylvania",1,Total:,"1,177",+/-255
+B02011,05000US42025,"Carbon County, Pennsylvania",1,Total:,"1,038",+/-583
+B02011,05000US42027,"Centre County, Pennsylvania",1,Total:,"12,101",+/-175
+B02011,05000US42029,"Chester County, Pennsylvania",1,Total:,"33,468",+/-388
+B02011,05000US42033,"Clearfield County, Pennsylvania",1,Total:,693,+/-436
+B02011,05000US42037,"Columbia County, Pennsylvania",1,Total:,880,+/-177
+B02011,05000US42039,"Crawford County, Pennsylvania",1,Total:,819,+/-134
+B02011,05000US42041,"Cumberland County, Pennsylvania",1,Total:,"13,312",+/-144
+B02011,05000US42043,"Dauphin County, Pennsylvania",1,Total:,"15,969",+/-934
+B02011,05000US42045,"Delaware County, Pennsylvania",1,Total:,"37,936",+/-844
+B02011,05000US42049,"Erie County, Pennsylvania",1,Total:,"6,068",+/-278
+B02011,05000US42051,"Fayette County, Pennsylvania",1,Total:,691,+/-177
+B02011,05000US42055,"Franklin County, Pennsylvania",1,Total:,"2,347",+/-261
+B02011,05000US42063,"Indiana County, Pennsylvania",1,Total:,"1,060",+/-171
+B02011,05000US42069,"Lackawanna County, Pennsylvania",1,Total:,"7,395",+/-213
+B02011,05000US42071,"Lancaster County, Pennsylvania",1,Total:,"16,278","+/-1,283"
+B02011,05000US42073,"Lawrence County, Pennsylvania",1,Total:,741,+/-237
+B02011,05000US42075,"Lebanon County, Pennsylvania",1,Total:,"2,588",+/-267
+B02011,05000US42077,"Lehigh County, Pennsylvania",1,Total:,"16,002","+/-1,037"
+B02011,05000US42079,"Luzerne County, Pennsylvania",1,Total:,"5,869",+/-742
+B02011,05000US42081,"Lycoming County, Pennsylvania",1,Total:,"1,049",+/-75
+B02011,05000US42085,"Mercer County, Pennsylvania",1,Total:,"1,225",+/-123
+B02011,05000US42089,"Monroe County, Pennsylvania",1,Total:,"5,042",+/-745
+B02011,05000US42091,"Montgomery County, Pennsylvania",1,Total:,"72,567",+/-813
+B02011,05000US42095,"Northampton County, Pennsylvania",1,Total:,"11,001",+/-820
+B02011,05000US42097,"Northumberland County, Pennsylvania",1,Total:,611,+/-110
+B02011,05000US42101,"Philadelphia County, Pennsylvania",1,Total:,"132,326","+/-2,435"
+B02011,05000US42107,"Schuylkill County, Pennsylvania",1,Total:,"1,147",+/-103
+B02011,05000US42111,"Somerset County, Pennsylvania",1,Total:,441,+/-385
+B02011,05000US42125,"Washington County, Pennsylvania",1,Total:,"2,984",+/-87
+B02011,05000US42129,"Westmoreland County, Pennsylvania",1,Total:,"4,382",+/-144
+B02011,05000US42133,"York County, Pennsylvania",1,Total:,"8,606",+/-395
+B02011,05000US44003,"Kent County, Rhode Island",1,Total:,"5,461",+/-220
+B02011,05000US44005,"Newport County, Rhode Island",1,Total:,"2,207",+/-79
+B02011,05000US44007,"Providence County, Rhode Island",1,Total:,"32,246","+/-1,546"
+B02011,05000US44009,"Washington County, Rhode Island",1,Total:,"3,443",+/-127
+B02011,05000US45003,"Aiken County, South Carolina",1,Total:,"2,507",+/-190
+B02011,05000US45007,"Anderson County, South Carolina",1,Total:,"2,508",+/-222
+B02011,05000US45013,"Beaufort County, South Carolina",1,Total:,"3,257",+/-163
+B02011,05000US45015,"Berkeley County, South Carolina",1,Total:,"7,734",+/-444
+B02011,05000US45019,"Charleston County, South Carolina",1,Total:,"9,343",+/-717
+B02011,05000US45031,"Darlington County, South Carolina",1,Total:,380,+/-214
+B02011,05000US45035,"Dorchester County, South Carolina",1,Total:,"4,712",+/-611
+B02011,05000US45041,"Florence County, South Carolina",1,Total:,"2,295",+/-214
+B02011,05000US45045,"Greenville County, South Carolina",1,Total:,"16,009",+/-628
+B02011,05000US45047,"Greenwood County, South Carolina",1,Total:,496,+/-421
+B02011,05000US45051,"Horry County, South Carolina",1,Total:,"6,024",+/-253
+B02011,05000US45055,"Kershaw County, South Carolina",1,Total:,605,+/-214
+B02011,05000US45057,"Lancaster County, South Carolina",1,Total:,"1,606",+/-214
+B02011,05000US45063,"Lexington County, South Carolina",1,Total:,"7,473",+/-312
+B02011,05000US45073,"Oconee County, South Carolina",1,Total:,"1,104",+/-404
+B02011,05000US45075,"Orangeburg County, South Carolina",1,Total:,838,+/-139
+B02011,05000US45077,"Pickens County, South Carolina",1,Total:,"2,978",+/-47
+B02011,05000US45079,"Richland County, South Carolina",1,Total:,"15,117",+/-630
+B02011,05000US45083,"Spartanburg County, South Carolina",1,Total:,"9,109",+/-821
+B02011,05000US45085,"Sumter County, South Carolina",1,Total:,"2,069",+/-81
+B02011,05000US45091,"York County, South Carolina",1,Total:,"7,815",+/-231
+B02011,05000US46099,"Minnehaha County, South Dakota",1,Total:,"5,581",+/-118
+B02011,05000US46103,"Pennington County, South Dakota",1,Total:,"2,270",+/-310
+B02011,05000US47001,"Anderson County, Tennessee",1,Total:,"1,375",+/-211
+B02011,05000US47009,"Blount County, Tennessee",1,Total:,"1,665",+/-214
+B02011,05000US47011,"Bradley County, Tennessee",1,Total:,"1,422",+/-62
+B02011,05000US47037,"Davidson County, Tennessee",1,Total:,"31,086",+/-123
+B02011,05000US47065,"Hamilton County, Tennessee",1,Total:,"9,330",+/-568
+B02011,05000US47093,"Knox County, Tennessee",1,Total:,"13,589",+/-560
+B02011,05000US47113,"Madison County, Tennessee",1,Total:,"1,488",+/-291
+B02011,05000US47119,"Maury County, Tennessee",1,Total:,"1,133",+/-211
+B02011,05000US47125,"Montgomery County, Tennessee",1,Total:,"8,159",+/-733
+B02011,05000US47141,"Putnam County, Tennessee",1,Total:,"1,148",+/-216
+B02011,05000US47147,"Robertson County, Tennessee",1,Total:,558,+/-211
+B02011,05000US47149,"Rutherford County, Tennessee",1,Total:,"13,494",+/-797
+B02011,05000US47155,"Sevier County, Tennessee",1,Total:,570,+/-475
+B02011,05000US47157,"Shelby County, Tennessee",1,Total:,"29,607","+/-1,039"
+B02011,05000US47163,"Sullivan County, Tennessee",1,Total:,"1,544",+/-211
+B02011,05000US47165,"Sumner County, Tennessee",1,Total:,"3,500",+/-200
+B02011,05000US47179,"Washington County, Tennessee",1,Total:,"2,757",+/-290
+B02011,05000US47187,"Williamson County, Tennessee",1,Total:,"13,092",+/-470
+B02011,05000US47189,"Wilson County, Tennessee",1,Total:,"2,888",+/-96
+B02011,05000US48005,"Angelina County, Texas",1,Total:,"1,049",+/-106
+B02011,05000US48021,"Bastrop County, Texas",1,Total:,872,+/-91
+B02011,05000US48027,"Bell County, Texas",1,Total:,"14,953",+/-623
+B02011,05000US48029,"Bexar County, Texas",1,Total:,"76,343","+/-1,984"
+B02011,05000US48037,"Bowie County, Texas",1,Total:,"1,541",+/-228
+B02011,05000US48039,"Brazoria County, Texas",1,Total:,"27,771",+/-611
+B02011,05000US48041,"Brazos County, Texas",1,Total:,"16,093",+/-166
+B02011,05000US48061,"Cameron County, Texas",1,Total:,"3,950",+/-555
+B02011,05000US48085,"Collin County, Texas",1,Total:,"173,553","+/-1,989"
+B02011,05000US48091,"Comal County, Texas",1,Total:,"2,863",+/-527
+B02011,05000US48099,"Coryell County, Texas",1,Total:,"2,557",+/-293
+B02011,05000US48113,"Dallas County, Texas",1,Total:,"190,174","+/-1,998"
+B02011,05000US48121,"Denton County, Texas",1,Total:,"92,268","+/-2,747"
+B02011,05000US48135,"Ector County, Texas",1,Total:,"2,376",+/-658
+B02011,05000US48139,"Ellis County, Texas",1,Total:,"1,967",+/-183
+B02011,05000US48141,"El Paso County, Texas",1,Total:,"16,191","+/-1,723"
+B02011,05000US48157,"Fort Bend County, Texas",1,Total:,"170,822","+/-1,793"
+B02011,05000US48167,"Galveston County, Texas",1,Total:,"13,853",+/-783
+B02011,05000US48181,"Grayson County, Texas",1,Total:,"2,695",+/-247
+B02011,05000US48183,"Gregg County, Texas",1,Total:,"2,058",+/-84
+B02011,05000US48187,"Guadalupe County, Texas",1,Total:,"4,763",+/-559
+B02011,05000US48201,"Harris County, Texas",1,Total:,"373,105","+/-4,537"
+B02011,05000US48209,"Hays County, Texas",1,Total:,"5,457",+/-907
+B02011,05000US48213,"Henderson County, Texas",1,Total:,657,+/-20
+B02011,05000US48215,"Hidalgo County, Texas",1,Total:,"9,218",+/-621
+B02011,05000US48231,"Hunt County, Texas",1,Total:,"1,738",+/-17
+B02011,05000US48245,"Jefferson County, Texas",1,Total:,"10,983",+/-322
+B02011,05000US48251,"Johnson County, Texas",1,Total:,"2,867",+/-959
+B02011,05000US48257,"Kaufman County, Texas",1,Total:,"2,098",+/-241
+B02011,05000US48291,"Liberty County, Texas",1,Total:,210,+/-169
+B02011,05000US48303,"Lubbock County, Texas",1,Total:,"9,885","+/-1,243"
+B02011,05000US48309,"McLennan County, Texas",1,Total:,"5,797",+/-469
+B02011,05000US48329,"Midland County, Texas",1,Total:,"5,401","+/-1,326"
+B02011,05000US48339,"Montgomery County, Texas",1,Total:,"22,063",+/-871
+B02011,05000US48347,"Nacogdoches County, Texas",1,Total:,"1,132",+/-228
+B02011,05000US48355,"Nueces County, Texas",1,Total:,"10,287","+/-1,291"
+B02011,05000US48361,"Orange County, Texas",1,Total:,"1,215",+/-228
+B02011,05000US48367,"Parker County, Texas",1,Total:,"1,377",+/-151
+B02011,05000US48375,"Potter County, Texas",1,Total:,"7,514",+/-268
+B02011,05000US48381,"Randall County, Texas",1,Total:,"2,877",+/-228
+B02011,05000US48397,"Rockwall County, Texas",1,Total:,"3,949",+/-390
+B02011,05000US48409,"San Patricio County, Texas",1,Total:,988,+/-511
+B02011,05000US48423,"Smith County, Texas",1,Total:,"4,559",+/-40
+B02011,05000US48439,"Tarrant County, Texas",1,Total:,"137,017","+/-1,751"
+B02011,05000US48441,"Taylor County, Texas",1,Total:,"4,754",+/-762
+B02011,05000US48451,"Tom Green County, Texas",1,Total:,"2,074",+/-162
+B02011,05000US48453,"Travis County, Texas",1,Total:,"106,199","+/-2,874"
+B02011,05000US48469,"Victoria County, Texas",1,Total:,"1,346",+/-228
+B02011,05000US48471,"Walker County, Texas",1,Total:,"1,965","+/-1,528"
+B02011,05000US48479,"Webb County, Texas",1,Total:,"1,673",+/-312
+B02011,05000US48485,"Wichita County, Texas",1,Total:,"3,972",+/-359
+B02011,05000US48491,"Williamson County, Texas",1,Total:,"48,523","+/-1,340"
+B02011,05000US49005,"Cache County, Utah",1,Total:,"4,410",+/-387
+B02011,05000US49011,"Davis County, Utah",1,Total:,"12,040",+/-928
+B02011,05000US49035,"Salt Lake County, Utah",1,Total:,"65,234","+/-1,122"
+B02011,05000US49045,"Tooele County, Utah",1,Total:,"1,109",+/-798
+B02011,05000US49049,"Utah County, Utah",1,Total:,"19,116","+/-1,113"
+B02011,05000US49053,"Washington County, Utah",1,Total:,"2,724",+/-156
+B02011,05000US49057,"Weber County, Utah",1,Total:,"6,270",+/-491
+B02011,05000US50007,"Chittenden County, Vermont",1,Total:,"9,630",+/-421
+B02011,05000US51003,"Albemarle County, Virginia",1,Total:,"7,242",+/-240
+B02011,05000US51013,"Arlington County, Virginia",1,Total:,"30,498",+/-784
+B02011,05000US51015,"Augusta County, Virginia",1,Total:,558,+/-495
+B02011,05000US51019,"Bedford County, Virginia",1,Total:,"1,275",+/-87
+B02011,05000US51041,"Chesterfield County, Virginia",1,Total:,"15,413",+/-266
+B02011,05000US51059,"Fairfax County, Virginia",1,Total:,"256,856","+/-1,333"
+B02011,05000US51061,"Fauquier County, Virginia",1,Total:,"1,527",+/-28
+B02011,05000US51069,"Frederick County, Virginia",1,Total:,"2,414",+/-579
+B02011,05000US51085,"Hanover County, Virginia",1,Total:,"2,715",+/-199
+B02011,05000US51087,"Henrico County, Virginia",1,Total:,"31,873",+/-316
+B02011,05000US51095,"James City County, Virginia",1,Total:,"3,074",+/-493
+B02011,05000US51107,"Loudoun County, Virginia",1,Total:,"90,016",+/-720
+B02011,05000US51121,"Montgomery County, Virginia",1,Total:,"7,762",+/-434
+B02011,05000US51153,"Prince William County, Virginia",1,Total:,"53,177","+/-2,053"
+B02011,05000US51161,"Roanoke County, Virginia",1,Total:,"3,704",+/-206
+B02011,05000US51165,"Rockingham County, Virginia",1,Total:,904,+/-206
+B02011,05000US51177,"Spotsylvania County, Virginia",1,Total:,"5,292",+/-439
+B02011,05000US51179,"Stafford County, Virginia",1,Total:,"8,327",+/-655
+B02011,05000US51199,"York County, Virginia",1,Total:,"5,024",+/-184
+B02011,05000US51510,"Alexandria city, Virginia",1,Total:,"14,875","+/-1,542"
+B02011,05000US51550,"Chesapeake city, Virginia",1,Total:,"12,604",+/-866
+B02011,05000US51650,"Hampton city, Virginia",1,Total:,"5,084",+/-647
+B02011,05000US51680,"Lynchburg city, Virginia",1,Total:,"2,813",+/-145
+B02011,05000US51700,"Newport News city, Virginia",1,Total:,"8,580",+/-909
+B02011,05000US51710,"Norfolk city, Virginia",1,Total:,"11,980",+/-447
+B02011,05000US51740,"Portsmouth city, Virginia",1,Total:,"1,990",+/-348
+B02011,05000US51760,"Richmond city, Virginia",1,Total:,"6,975",+/-333
+B02011,05000US51770,"Roanoke city, Virginia",1,Total:,"3,824",+/-73
+B02011,05000US51800,"Suffolk city, Virginia",1,Total:,"2,783",+/-451
+B02011,05000US51810,"Virginia Beach city, Virginia",1,Total:,"40,939","+/-1,423"
+B02011,05000US53005,"Benton County, Washington",1,Total:,"8,351",+/-770
+B02011,05000US53007,"Chelan County, Washington",1,Total:,"1,234",+/-138
+B02011,05000US53009,"Clallam County, Washington",1,Total:,"2,198",+/-82
+B02011,05000US53011,"Clark County, Washington",1,Total:,"31,231",+/-554
+B02011,05000US53015,"Cowlitz County, Washington",1,Total:,"2,498",+/-88
+B02011,05000US53021,"Franklin County, Washington",1,Total:,"5,046","+/-2,314"
+B02011,05000US53025,"Grant County, Washington",1,Total:,"1,967",+/-631
+B02011,05000US53027,"Grays Harbor County, Washington",1,Total:,"1,646",+/-204
+B02011,05000US53029,"Island County, Washington",1,Total:,"5,670",+/-710
+B02011,05000US53033,"King County, Washington",1,Total:,"483,733","+/-2,645"
+B02011,05000US53035,"Kitsap County, Washington",1,Total:,"23,334","+/-1,072"
+B02011,05000US53041,"Lewis County, Washington",1,Total:,"1,533",+/-25
+B02011,05000US53045,"Mason County, Washington",1,Total:,"1,415",+/-10
+B02011,05000US53053,"Pierce County, Washington",1,Total:,"90,922","+/-3,066"
+B02011,05000US53057,"Skagit County, Washington",1,Total:,"4,531",+/-602
+B02011,05000US53061,"Snohomish County, Washington",1,Total:,"113,113","+/-1,211"
+B02011,05000US53063,"Spokane County, Washington",1,Total:,"19,947",+/-593
+B02011,05000US53067,"Thurston County, Washington",1,Total:,"24,917","+/-1,069"
+B02011,05000US53073,"Whatcom County, Washington",1,Total:,"14,569",+/-722
+B02011,05000US53077,"Yakima County, Washington",1,Total:,"5,061",+/-643
+B02011,05000US54003,"Berkeley County, West Virginia",1,Total:,934,+/-544
+B02011,05000US54011,"Cabell County, West Virginia",1,Total:,"1,995",+/-329
+B02011,05000US54039,"Kanawha County, West Virginia",1,Total:,"2,566",+/-249
+B02011,05000US54061,"Monongalia County, West Virginia",1,Total:,"4,792",+/-242
+B02011,05000US54081,"Raleigh County, West Virginia",1,Total:,932,+/-96
+B02011,05000US54107,"Wood County, West Virginia",1,Total:,719,+/-201
+B02011,05000US55009,"Brown County, Wisconsin",1,Total:,"9,907",+/-258
+B02011,05000US55025,"Dane County, Wisconsin",1,Total:,"39,508",+/-656
+B02011,05000US55027,"Dodge County, Wisconsin",1,Total:,920,+/-189
+B02011,05000US55035,"Eau Claire County, Wisconsin",1,Total:,"6,049",+/-127
+B02011,05000US55039,"Fond du Lac County, Wisconsin",1,Total:,564,+/-368
+B02011,05000US55055,"Jefferson County, Wisconsin",1,Total:,"1,443",+/-210
+B02011,05000US55059,"Kenosha County, Wisconsin",1,Total:,"3,943",+/-532
+B02011,05000US55063,"La Crosse County, Wisconsin",1,Total:,"6,221",+/-151
+B02011,05000US55071,"Manitowoc County, Wisconsin",1,Total:,"2,538",+/-151
+B02011,05000US55073,"Marathon County, Wisconsin",1,Total:,"8,965",+/-188
+B02011,05000US55079,"Milwaukee County, Wisconsin",1,Total:,"49,515",+/-658
+B02011,05000US55087,"Outagamie County, Wisconsin",1,Total:,"7,706",+/-280
+B02011,05000US55089,"Ozaukee County, Wisconsin",1,Total:,"2,317",+/-904
+B02011,05000US55097,"Portage County, Wisconsin",1,Total:,"2,471",+/-78
+B02011,05000US55101,"Racine County, Wisconsin",1,Total:,"3,117",+/-89
+B02011,05000US55105,"Rock County, Wisconsin",1,Total:,"2,838",+/-151
+B02011,05000US55109,"St. Croix County, Wisconsin",1,Total:,"1,688",+/-112
+B02011,05000US55117,"Sheboygan County, Wisconsin",1,Total:,"7,150",+/-151
+B02011,05000US55127,"Walworth County, Wisconsin",1,Total:,"2,541",+/-985
+B02011,05000US55131,"Washington County, Wisconsin",1,Total:,"2,418",+/-194
+B02011,05000US55133,"Waukesha County, Wisconsin",1,Total:,"17,980",+/-370
+B02011,05000US55139,"Winnebago County, Wisconsin",1,Total:,"6,128",+/-120
+B02011,05000US55141,"Wood County, Wisconsin",1,Total:,535,+/-478
+B02011,05000US56021,"Laramie County, Wyoming",1,Total:,"2,040",+/-222
+B02011,05000US56025,"Natrona County, Wyoming",1,Total:,947,+/-81
+B02011,05000US72013,"Arecibo Municipio, Puerto Rico",1,Total:,736,+/-710
+B02011,05000US72021,"Bayamón Municipio, Puerto Rico",1,Total:,155,+/-151
+B02011,05000US72025,"Caguas Municipio, Puerto Rico",1,Total:,400,+/-282
+B02011,05000US72031,"Carolina Municipio, Puerto Rico",1,Total:,505,+/-441
+B02011,05000US72127,"San Juan Municipio, Puerto Rico",1,Total:,"1,285",+/-886
